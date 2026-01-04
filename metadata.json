@@ -1,0 +1,5 @@
+{
+  "name": "BillTracker",
+  "description": "A powerful, mobile-first financial utility to track recurring bills, manage payments, and gain financial clarity through smart reminders and dashboards.",
+  "requestFramePermissions": []
+}
